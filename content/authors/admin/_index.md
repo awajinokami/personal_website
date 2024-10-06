@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation:'彭 (ホウ) 一凡 '
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yifan
+last_name: Peng
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,44 +20,43 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: PhD candidate in Agricultural and Applied Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Illinois Urbana-Champaign
+    url: https://ace.illinois.edu/directory/yifanp4
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
+  # - icon: at-symbol
+  #   url: 'yifanp4 [at] illinois.edu'
+  #   label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/yifanpeng_econ
+  # - icon: brands/instagram
+  #   url: ''
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://github.com/awajinokami
+  # - icon: brands/linkedin
+  #   url: ''
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: ''
+  # - icon: academicons/orcid
+  #   url: ''
 
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+Primary Field:
+  - Food Policy
+  - Environmental Economics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Agricultural and Applied Economics
+    institution: University of Illinois Urbana-Champaign
+    date_start: 2019
+    date_end: 2025
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      #######.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
