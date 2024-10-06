@@ -46,7 +46,7 @@ profiles:
   # - icon: academicons/orcid
   #   url: ''
 
-Primary Field:
+primary:
   - Food Policy
   - Environmental Economics
 
