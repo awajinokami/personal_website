@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: Yifan Peng
 
 # Name pronunciation (optional)
 name_pronunciation: '彭 (ホウ) 一凡 '
@@ -46,7 +46,7 @@ profiles:
   # - icon: academicons/orcid
   #   url: ''
 
-primary:
+interests:
   - Food Policy
   - Environmental Economics
 
