@@ -3,7 +3,7 @@
 title: 
 
 # Name pronunciation (optional)
-name_pronunciation:'彭 (ホウ) 一凡 '
+name_pronunciation: '彭 (ホウ) 一凡 '
 
 # Full name (for SEO)
 first_name: Yifan
